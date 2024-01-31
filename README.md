@@ -1,5 +1,7 @@
 ### hi
 
+check out my website [https://nicholasassia.github.io](here)
+
 <!--
 **nicholasassia/nicholasassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
