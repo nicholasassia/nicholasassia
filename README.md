@@ -2,6 +2,8 @@
 
 I'm a Computer Science student at Virginia Tech, graduating in May 2027 with a minor in Cybersecurity. I'm continuing into Virginia Tech's M.Eng. in Computer Science Applications through the accelerated 4+1 program, with an interest in network security and cybersecurity.
 
+none of my projects are really on here, or they are private
+
 <!--
 **nicholasassia/nicholasassia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
