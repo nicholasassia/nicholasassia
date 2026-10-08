@@ -1,6 +1,6 @@
 ## hi
 
-I'm a Computer Science student at Virginia Tech, graduating in May 2027 with a minor in Cybersecurity. I'm continuing into Virginia Tech's M.Eng. in Computer Science Applications through the accelerated 4+1 program, with an interest in network security and cybersecurity.
+I'm a Computer Science student at Virginia Tech, graduating in May 2027 with a minor in Cybersecurity. I'm continuing into Virginia Tech's M.Eng. in Computer Science Applications through the accelerated 4+1 program, with an interest in security.
 
 none of my projects are really on here, or they are private
 
